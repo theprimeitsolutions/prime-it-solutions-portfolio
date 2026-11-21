@@ -59,6 +59,48 @@ HTML5 | CSS3 | JavaScript
 
 ---
 
+---
+
+## 🌾 Featured Project 02 — KisanLeads.com
+
+### Agricultural Machinery B2B Marketplace
+
+**Project Type:** Custom B2B Marketplace
+
+**Industry:** Agriculture & Farm Machinery
+
+**Target Market:** PAN India
+
+**Project Status:** In Development
+
+**Website:** https://kisanleads.com/
+
+### 📋 Project Overview
+
+KisanLeads is a B2B agricultural machinery marketplace project designed to connect manufacturers, dealers, distributors and potential buyers across India.
+
+### ⭐ Features & Development Scope
+
+- Agricultural Machinery Directory
+- Manufacturer & Dealer Listings
+- Distributor Business Profiles
+- Supplier Registration
+- Product Search & Discovery
+- Business Enquiry Management
+- Supplier Dashboard
+- Admin Enquiry Management
+- Mobile-Friendly Website
+
+### 🛠️ Technology Stack
+
+HTML5 | CSS3 | JavaScript | PHP | MySQL
+
+### 🌐 Explore the Project
+
+[![Visit KisanLeads](https://img.shields.io/badge/VISIT_KISANLEADS-087D39?style=for-the-badge)](https://kisanleads.com/)
+
+---
+
 ## 🤝 Have a Similar Project?
 
 Looking for a professional website, custom software, CRM, ERP, AI automation or digital business solution?
