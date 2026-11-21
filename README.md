@@ -178,41 +178,65 @@ The website enables prospective buyers and business partners to explore machiner
 
 ---
 
-## 🌍 Featured Project 04 — Transguard Group
+## 🇦🇪 Featured Project 04 — Transguard Group
 
-### Corporate Website & Multi-Service Business Platform
+### Corporate Website & Digital Technology Collaboration
 
-**Company:** Transguard Group
+**Organization:** Transguard Group
 
 **Industry:** Business Support Services, Security & Facilities Management
 
 **Business Location:** Dubai, United Arab Emirates
 
-**Target Market:** UAE & International Business Customers
+**Engagement Type:** Third-Party IT Collaboration
+
+**Project Involvement:** Multiple Website-Related Technical Workstreams
+
+**Direct Client Contract:** Not Claimed
 
 **Website:** https://transguardgroup.com/
 
 ### 📋 Project Overview
 
-Transguard Group is a UAE-based business solutions organization offering a wide range of integrated services across multiple industries.
+Transguard Group is a UAE-based organization providing integrated business support services across multiple industries.
 
-Its corporate website presents the organization's business divisions, professional services, company information and customer engagement channels.
+This portfolio entry represents technical participation in website-related work associated with Transguard Group through a third-party engagement.
 
-### ⭐ Website Features
+The engagement involved multiple areas of digital and website-related technical work rather than a direct client contract with Transguard Group.
+
+### 💻 Technical Collaboration & Work Involvement
+
+The engagement provided experience in contributing to technical activities within a corporate website environment.
+
+Areas associated with the engagement included:
+
+- Website Development-Related Support
+- Website Design & Content Updates
+- Website Optimization Activities
+- Technical Troubleshooting
+- Website Maintenance-Related Support
+- Digital Platform Coordination
+- Website Functionality Review
+- General Website Technical Assistance
+
+**Scope Note:** The above describes the broad technical work areas. Specific completed deliverables should be matched to the actual third-party project records before publication.
+
+### ⭐ Corporate Website Features
+
+The publicly accessible website presents multiple business services and corporate information areas.
 
 - Professional Corporate Website
 - Multi-Service Business Presentation
-- Dedicated Service Information Pages
 - Corporate Branding & Navigation
-- Security Solutions Information
-- Integrated Facilities Management Services
-- Manpower & Workforce Solutions
-- Aviation & Hospitality Services
-- Cash Management Solutions
-- Business Contact & Enquiry Information
-- Company News & Corporate Information
+- Dedicated Service Information
+- Business Contact Information
+- Corporate News & Updates
+- Service Category Presentation
+- Company Information Pages
 
-### 🏢 Business Service Categories
+These are website characteristics, not a claim that every feature was developed by PRIME IT SOLUTIONS.
+
+### 🏢 Transguard Group Business Categories
 
 - Security Services
 - Facilities Management
@@ -223,18 +247,41 @@ Its corporate website presents the organization's business divisions, profession
 - Hospitality Solutions
 - Systems Integration
 - Managed Services
-- Logistics & Business Support
+- Business Support Solutions
 
-### 🎯 Digital Business Objective
+### 🎯 Project Experience
 
-To provide a centralized online platform where businesses can explore corporate services, understand service capabilities and connect with the organization.
+This engagement provided exposure to website-related technical work in a corporate business services environment associated with a UAE-based organization.
 
-### 🌐 Explore the Website
+The experience is relevant to international website support, digital operations, technical coordination and business-focused web solutions.
+
+### 🌍 International Project Exposure
+
+**Country:** United Arab Emirates
+
+**Region:** GCC / Middle East
+
+**Business Sector:** Corporate & Business Support Services
+
+**Engagement Model:** Third-Party Technical Collaboration
+
+### 🤝 Professional Attribution & Transparency
+
+**Third-Party Engagement:** Yes
+
+**Direct Contract With Transguard Group:** Not Claimed
+
+**Full Website Development Ownership:** Not Claimed
+
+**Official Partnership or Endorsement:** Not Claimed
+
+**Portfolio Contributor:** Er. Manjoor Ansari / PRIME IT SOLUTIONS
+
+**Disclosure:** This entry represents third-party technical project involvement. It does not imply that Transguard Group directly engaged, endorsed or officially partnered with PRIME IT SOLUTIONS.
+
+### 🌐 Explore the Official Website
 
 [![Visit Transguard Group](https://img.shields.io/badge/VISIT_TRANSGUARD_GROUP-087D39?style=for-the-badge)](https://transguardgroup.com/)
-
----
-
 
 ---
 
@@ -254,6 +301,8 @@ Whether you are a manufacturing company, agricultural machinery business, educat
 - B2B Marketplace Development
 - Technical SEO & Digital Marketing
 - Business Enquiry Management Systems
+- Website Maintenance & Technical Support
+- Business Website Modernization
 
 **Let's discuss your business requirements and explore the right technology solution.**
 
